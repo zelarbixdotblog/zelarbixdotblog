@@ -6,8 +6,8 @@ Currently building **Bloxel**, a survival voxel engine in Golang + Raylib that u
 
 <br>
 
-[![Cursor](https://img.shields.io/badge/Cursor-FF0000?style=for-the-badge)](https://cursor.com)
-[![Grok Build CLI](https://img.shields.io/badge/Grok_Build_CLI-FF7F00?style=for-the-badge)](https://x.ai/build)
+[![Gemini](https://img.shields.io/badge/Gemini-FF0000?style=for-the-badge)](https://gemini.google.com)
+[![Antigravity](https://img.shields.io/badge/Antigravity-FF7F00?style=for-the-badge)](https://antigravity.google/)
 [![Aseprite](https://img.shields.io/badge/Aseprite-FFFF00?style=for-the-badge)](https://www.aseprite.org/)
 [![Paint.NET](https://img.shields.io/badge/Paint.NET-00FF00?style=for-the-badge)](https://www.getpaint.net/)
 [![Blockbench](https://img.shields.io/badge/Blockbench-0000FF?style=for-the-badge)](https://www.blockbench.net/)
