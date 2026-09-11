@@ -6,8 +6,8 @@ I'm just your average guy... with a *slight* case of shiny object syndrome.
 
 <br>
 
-[![Gemini](https://img.shields.io/badge/Gemini-FF0000?style=for-the-badge)](https://gemini.google.com)
-[![Antigravity](https://img.shields.io/badge/Antigravity-FF7F00?style=for-the-badge)](https://antigravity.google/)
+[![Visual Studio Code](https://img.shields.io/badge/VSCode-FF0000?style=for-the-badge)](https://code.visualstudio.com/)
+[![Grok Build](https://img.shields.io/badge/Grok-FF7F00?style=for-the-badge)](https://x.ai/build)
 [![Golang](https://img.shields.io/badge/Golang-FFFF00?style=for-the-badge)](https://go.dev/)
 [![Godot](https://img.shields.io/badge/Godot-00FF00?style=for-the-badge)](https://godotengine.org/)
 [![Aseprite](https://img.shields.io/badge/Aseprite-0000FF?style=for-the-badge)](https://www.aseprite.org/)
