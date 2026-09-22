@@ -7,7 +7,7 @@ I'm just your average guy... with a *slight* case of shiny object syndrome.
 <br>
 
 [![Zed](https://img.shields.io/badge/Zed-FF758F?style=for-the-badge)](https://zed.dev)
-[![Antigravity](https://img.shields.io/badge/Antigravity-FF9E7D?style=for-the-badge)](https://antigravity.google)
+[![Claude](https://img.shields.io/badge/Claude-FF9E7D?style=for-the-badge)](https://claude.ai)
 [![Golang](https://img.shields.io/badge/Golang-F6D06F?style=for-the-badge)](https://go.dev/)
 [![Raylib](https://img.shields.io/badge/Raylib-B5D99C?style=for-the-badge)](https://www.raylib.com/)
 [![Godot](https://img.shields.io/badge/Godot-7ECEB4?style=for-the-badge)](https://godotengine.org)
