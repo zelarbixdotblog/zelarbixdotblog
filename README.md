@@ -6,13 +6,12 @@ I'm just your average guy... with a *slight* case of shiny object syndrome.
 
 <br>
 
-[![Claude](https://img.shields.io/badge/Claude-FFADAD?style=for-the-badge)](https://claude.ai)
-[![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-FFC9A0?style=for-the-badge)](https://create.roblox.com/landing)
-[![Zed](https://img.shields.io/badge/Zed-FDE9A0?style=for-the-badge)](https://zed.dev)
-[![Golang](https://img.shields.io/badge/Golang-C4EBA6?style=for-the-badge)](https://go.dev/)
-[![Raylib](https://img.shields.io/badge/Raylib-A8E6CF?style=for-the-badge)](https://www.raylib.com/)
-[![Aseprite](https://img.shields.io/badge/Aseprite-A0DDF5?style=for-the-badge)](https://www.aseprite.org)
-[![Pinta](https://img.shields.io/badge/Pinta-A9B8F7?style=for-the-badge)](https://www.pinta-project.com)
-[![Blender](https://img.shields.io/badge/Blender-C9B1F2?style=for-the-badge)](https://www.blender.org)
-[![Audacity](https://img.shields.io/badge/Audacity-F2B1E6?style=for-the-badge)](https://www.audacityteam.org)
+[![Claude](https://img.shields.io/badge/Claude-FFB3BA?style=for-the-badge)](https://claude.ai)
+[![Zed](https://img.shields.io/badge/Zed-FFCBA4?style=for-the-badge)](https://zed.dev)
+[![Golang](https://img.shields.io/badge/Golang-FFECB3?style=for-the-badge)](https://go.dev/)
+[![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-B5E7A0?style=for-the-badge)](https://create.roblox.com/landing)
+[![Aseprite](https://img.shields.io/badge/Aseprite-B0E0E6?style=for-the-badge)](https://www.aseprite.org)
+[![Pinta](https://img.shields.io/badge/Pinta-B4B8F7?style=for-the-badge)](https://www.pinta-project.com)
+[![Blender](https://img.shields.io/badge/Blender-D4B4F7?style=for-the-badge)](https://www.blender.org)
+[![Audacity](https://img.shields.io/badge/Audacity-F5B4E8?style=for-the-badge)](https://www.audacityteam.org)
 </div>
