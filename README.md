@@ -7,8 +7,8 @@ I'm just your average guy... with a *slight* case of shiny object syndrome.
 <br>
 
 [![Claude](https://img.shields.io/badge/Claude-FFB3BA?style=for-the-badge)](https://claude.ai)
+[![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-FFDFBA?style=for-the-badge)](https://create.roblox.com/landing)
+[![Pinta](https://img.shields.io/badge/Pinta-B5E7A0?style=for-the-badge)](https://www.pinta-project.com)
+[![Blender](https://img.shields.io/badge/Blender-B4B8F7?style=for-the-badge)](https://www.blender.org)
 [![Audacity](https://img.shields.io/badge/Audacity-F5B4E8?style=for-the-badge)](https://www.audacityteam.org)
-[![Blender](https://img.shields.io/badge/Blender-D4B4F7?style=for-the-badge)](https://www.blender.org)
-[![Pinta](https://img.shields.io/badge/Pinta-B4B8F7?style=for-the-badge)](https://www.pinta-project.com)
-[![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-B5E7A0?style=for-the-badge)](https://create.roblox.com/landing)
 </div>
